@@ -4,4 +4,7 @@
 Тема: Детальний урок як працювати з даними в базі даних PostgreSQL за допомогою програми на  C#.
 Вставка даних, виведення списку даних, видалення.
 
+
 Вивчати C#: https://www.w3schools.com/cs/index.php
+
+Вивчати SQL: https://www.w3schools.com/sql/default.asp
